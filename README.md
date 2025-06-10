@@ -1,0 +1,2 @@
+# infotec
+Proyecto en php
